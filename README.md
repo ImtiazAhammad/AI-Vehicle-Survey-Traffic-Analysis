@@ -15,7 +15,7 @@ An enterprise-grade computer vision and edge computing pipeline engineered to au
 
 Behold the system processing edge-node streams in real time.
 
-<video src="ATCC_Demo.mp4" controls autoplay loop muted width="100%"></video>
+<video src="./ATCC_Demo.mp4" controls autoplay loop muted width="100%"></video>
 
 
 ---
