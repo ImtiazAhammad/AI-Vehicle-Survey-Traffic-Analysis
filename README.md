@@ -15,9 +15,8 @@ An enterprise-grade computer vision and edge computing pipeline engineered to au
 
 Behold the system processing edge-node streams in real time.
 
-<video src="./ATCC_Demo.mp4" controls autoplay loop muted width="100%"></video>
+<video src="ATCC_Demo.mp4" controls autoplay loop muted width="100%"></video>
 
-*(Note: Ensure your uploaded screen recording is named `demo.mp4` and placed in the root directory of this repository for the auto-play loop to render correctly).*
 
 ---
 
@@ -87,4 +86,3 @@ Behold the system processing edge-node streams in real time.
 * **Data Management:** Oracle Database, Local SQLite Caching Layer
 * **Infrastructure Support:** Docker Containerization
 
-```
