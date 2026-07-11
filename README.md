@@ -14,8 +14,6 @@
 
 <video src="ATCC_Demo.mp4" controls autoplay loop muted width="100%"></video>
 
-> *Note: The video file `ATCC_Demo.mp4` must be present in the repository root directory for the playback loop to render correctly.*
-
 ---
 
 ## System Architecture
